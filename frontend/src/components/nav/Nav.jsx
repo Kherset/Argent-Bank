@@ -31,7 +31,7 @@ function Nav() {
       </Link>
       <div>
         {isAuthenticated ? (
-          <button onClick={logOut}>
+          <button onClick={logOut} className="main-nav-item logout-button">
             <FontAwesomeIcon icon={faCircleUser} className="fa-user-circle" />{" "}
             Log out
           </button>
