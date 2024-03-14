@@ -1,8 +1,8 @@
+import Account from "../../account/Account";
+import Footer from "../../footer/Footer";
 import Nav from "../../nav/Nav";
 import "../../style.css";
-import Footer from "../../footer/Footer";
 import Welcome from "../../welcome/Welcome";
-import Account from "../../account/Account";
 
 function User() {
   return (

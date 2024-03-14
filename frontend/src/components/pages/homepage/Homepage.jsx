@@ -1,8 +1,8 @@
-import "../../style.css";
-import Nav from "../../nav/Nav";
-import Footer from "../../footer/Footer";
 import Banner from "../../banner/Banner";
 import Features from "../../features/Features";
+import Footer from "../../footer/Footer";
+import Nav from "../../nav/Nav";
+import "../../style.css";
 
 function Home() {
   return (

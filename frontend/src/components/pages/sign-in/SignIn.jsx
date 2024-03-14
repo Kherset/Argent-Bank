@@ -1,13 +1,13 @@
 import "../../style.css";
 import Nav from "../../nav/Nav";
 import Footer from "../../footer/Footer";
-import Modal from "../../modal/Modal";
+import Form from "../../form/Form";
 
 function SignIn() {
   return (
     <div>
       <Nav />
-      <Modal />
+      <Form />
       <Footer />
     </div>
   );
